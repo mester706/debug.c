@@ -1,2 +1,2 @@
-# debug.c
+# Paragados.c
 debugging activity
